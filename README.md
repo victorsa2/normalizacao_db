@@ -1,2 +1,2 @@
 # normalizacao_db
-Normalização de banco de dados
+Normalização de banco de dados.
